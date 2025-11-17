@@ -13,9 +13,6 @@
 
 ---
 
-### 🔭 Current Project  
-**Gestion des projets** — a custom Flask & SQLAlchemy app for end-to-end project tracking.
-
 ### 🌱 Learning Path  
 > Delving into **Machine Learning** fundamentals and **AI** model building.
 
