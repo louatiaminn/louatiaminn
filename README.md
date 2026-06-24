@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Portfolio  
 All code & demos at:  
-[portfolio-ten-rouge-71.vercel.app](https://portfolio-ten-rouge-71.vercel.app/)
+[portfolio-ten-rouge-71.vercel.app](https://loueti-portfolio.vercel.app/)
 
 ### 📫 Contact  
 ✉️ louati773@gmail.com
